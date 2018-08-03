@@ -8,9 +8,9 @@ These documents need to have the backing of stakeholders to be effective, and so
 Proposals that are Pull Requests to change these documents, subject to Politeia Vote for review, would be an easily-automatable mechanism for deciding and describing how the various aspects of Decred's governance works.
 
 A set of initial documents to sketch out the concept:
-/constitution.md
-/recruitment.md
-/politeia.md
-/proposal_guidelines.md
-/budget/examplebudget.md
-/reporting/examplereport.md
+*/constitution.md
+*/recruitment.md
+*/politeia.md
+*/proposal_guidelines.md
+*/budget/examplebudget.md
+*/reporting/examplereport.md
