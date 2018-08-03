@@ -9,7 +9,7 @@ Proposals that are Pull Requests to change these documents, subject to Politeia 
 
 A set of initial documents to sketch out the concept:
 * [/constitution.md](https://github.com/RichardRed0x/governance-docs/blob/master/constitution.md)
-* /recruitment.md
+* [/recruitment.md](/recruitment.md)
 * [/politeia.md](https://github.com/decred/politeia/edit/master/politeia.md)
 * [/proposal_guidelines.md](https://github.com/RichardRed0x/governance-docs/blob/master/proposal-guidelines)
 * /budget/examplebudget.md
